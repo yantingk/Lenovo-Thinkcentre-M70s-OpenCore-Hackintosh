@@ -1,0 +1,1 @@
+# Lenovo-Thinkcentre-M70s-OpenCore-Hackintosh
